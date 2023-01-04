@@ -7,6 +7,9 @@
     <title>Rest0rent</title>
   </head>
   <body>
+    <a href="#recommendation" class="skip-to-content" tabindex="0"
+      >Skip to content</a
+    >
     <nav class="nav">
       <!-- Navigation Bar -->
       <div class="navWrapper">
@@ -14,9 +17,15 @@
         <ul class="navList" id="drawer">
           <li class="navItem"><a href="/">Home</a></li>
           <li class="navItem"><a href="#">Favorite</a></li>
-          <li class="navItem"><a href="#">About Us</a></li>
+          <li class="navItem">
+            <a href="https://github.com/AndyNotfound">About Us</a>
+          </li>
         </ul>
-        <button aria-role="button" id="hamburgerMenu" class="hamburger">
+        <button
+          aria-label="Show Navigation Menu"
+          id="hamburgerMenu"
+          class="hamburger"
+        >
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
             <path
               d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"
@@ -30,57 +39,26 @@
       <!-- Main Content -->
       <section id="hero">
         <!-- Start of the Hero section -->
-        <img
-          src="./images/heros/hero-image_2.jpg"
-          alt="Chef preparing sushi with carefulness"
-        />
+        <img src="./images/heros/hero-image_2.jpg" alt="" />
         <div class="hero-content">
-          <h1>We Serve The Best sushi In town</h1>
+          <header>We Serve The Best Dishes In town</header>
           <button>RSVP NOW!</button>
         </div>
         <!-- End of the Hero section -->
       </section>
+      <section id="recommendation">
+        <h2>Our Best Pick This Week</h2>
+        <!-- Start of the Article section -->
+        <div id="recommendation-container" class="article-container">
+          <!-- Injected from the DOM -->
+        </div>
+        <!-- End of the Article section -->
+      </section>
       <section id="article">
         <h2>Explore Our Restaurant</h2>
         <!-- Start of the Article section -->
-        <div class="article-container">
-          <article>
-            <!-- Article Card -->
-            <img src="https://restaurant-api.dicoding.dev/images/medium/38" alt="">
-            <div class="city"><p>Bandung</p></div>
-            <div class="detail">
-              <p class="rating">Rating : 5</p>
-              <p class="tittle">Lorem ipsum dolor sit amet.</p>
-              <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi obcaecati, alias voluptate dolorem inventore deserunt voluptatem cupiditate sunt provident impedit!</p>
-            </div>
-          </article>
-          <article>
-            <!-- Article Card -->
-            <img src="https://restaurant-api.dicoding.dev/images/medium/38" alt="">
-            <div class="detail">
-              <p class="rating">Rating : 5</p>
-              <p class="tittle">Lorem ipsum dolor sit amet.</p>
-              <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi obcaecati, alias voluptate dolorem inventore deserunt voluptatem cupiditate sunt provident impedit!</p>
-            </div>
-          </article>
-          <article>
-            <!-- Article Card -->
-            <img src="https://restaurant-api.dicoding.dev/images/medium/38" alt="">
-            <div class="detail">
-              <p class="rating">Rating : 5</p>
-              <p class="tittle">Lorem ipsum dolor sit amet.</p>
-              <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi obcaecati, alias voluptate dolorem inventore deserunt voluptatem cupiditate sunt provident impedit!</p>
-            </div>
-          </article>
-          <article>
-            <!-- Article Card -->
-            <img src="https://restaurant-api.dicoding.dev/images/medium/38" alt="">
-            <div class="detail">
-              <p class="rating">Rating : 5</p>
-              <p class="tittle">Lorem ipsum dolor sit amet.</p>
-              <p class="desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi obcaecati, alias voluptate dolorem inventore deserunt voluptatem cupiditate sunt provident impedit!</p>
-            </div>
-          </article>
+        <div id="article-container" class="article-container">
+          <!-- Injected from the DOM -->
         </div>
         <!-- End of the Article section -->
       </section>
