@@ -36,11 +36,8 @@ document.addEventListener("DOMContentLoaded", () => {
     if (parseFloat(item.rating) >= 4.6) {
       if (recomendationWrapper.children.length < 4) {
         recomendationWrapper.append(makeArticle(item));
-      } else {
-        articleWrapper.append(makeArticle(item));
-      }
-    } else {
-      articleWrapper.append(makeArticle(item));
+      } 
     }
+    articleWrapper.append(makeArticle(item));
   });
 });
