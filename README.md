@@ -8,44 +8,42 @@ In this project I've learned and implemented some key factors like:
   <li>
     Pengenalan Kelas : Menjelaskan tentang pentingnya membuat website yang
     optimal untuk diakses oleh berbagai perangkat, khususnya smartphone yang
-    mendominasi pengguna internet. (20 menit)
+    mendominasi pengguna internet.
   </li>
   <li>
     Mobile First Approach : Memahami pendekatan mobile-first, serta belajar
     membangun website yang responsif menggunakan CSS Grid System, Media Query,
-    dan Off Screen Canvas melalui pendekatan Mobile First. (7 jam 30 menit)
+    dan Off Screen Canvas melalui pendekatan Mobile First.
   </li>
   <li>
     Aksesibilitas : Belajar aspek aksesibilitas web seperti focus, semantic
     HTML, tab order, label, alternative teks, serta penggunaan screen reader
-    agar website yang dikembangkan dapat diakses oleh siapa pun. (13 jam 10
-    menit)
+    agar website yang dikembangkan dapat diakses oleh siapa pun.
   </li>
   <li>
     JavaScript Clean Code : Belajar prinsip-prinsip penulisan kode JavaScript
     berdasarkan acuan buku Clean Code yang ditulis oleh senior software engineer
-    Robert C. Martin. (6 jam)
+    Robert C. Martin.
   </li>
   <li>
     Progressive Web Apps : Belajar membuat website yang progressive sehingga
     website memiliki sifat native seperti installable, offline capability, dan
-    lainnya. (30 jam 15 menit)
+    lainnya.
   </li>
   <li>
     Automation Testing : Belajar penerapan testing seperti Unit Test,
     Integration Test, dan End to End Test pada website yang dibuat, serta
-    belajar menggunakan DevTools untuk debugging. (16 jam 25 menit)
+    belajar menggunakan DevTools untuk debugging.
   </li>
   <li>
     Web Performance : Belajar menggunakan web auditor untuk mengetahui sejauh
     mana performa website yang dibuat, dan mengoptimalkan performa website
-    berdasarkan hasil yang diperoleh. (7 jam 55 menit)
+    berdasarkan hasil yang diperoleh.
   </li>
   <li>
     Deployment dengan CI/CD: Belajar menerapkan teknik Continuous
     Integration/Continuous Deployment untuk melakukan proses testing dan build
-    secara otomatis sehingga aplikasi dapat diakses secara publik. (6 jam 20
-    menit)
+    secara otomatis sehingga aplikasi dapat diakses secara publik.
   </li>
 </ul>
 
