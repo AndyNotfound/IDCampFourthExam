@@ -1,6 +1,10 @@
 # IDCampFourthExam
 Indosat Ooredoo Hutchison Digital Camp Project for "Frontend Web Developer" path - FourthSubmission
 
+NOTE: I staged this project into three different section, <a href="https://github.com/AndyNotfound/IDCampFifthExam.git">IDCampFifthExam</a>, and <a href="https://github.com/AndyNotfound/IDCampSixthExam.git">IDCampSixthExam</a> check those two in accordance.
+
+In this stage, I only created the foundation and layout. Not exaclty a ship-able product. I mean, the original purpose of this project was to learn PWA.
+
 <h3>Key Points</h3>
 In this project I've learned and implemented some key factors like:
 <br><br>
@@ -67,7 +71,7 @@ In this project I've learned and implemented some key factors like:
 <h3>User Interface Preview</h3>
 <details>
   <summary><samp>click to expand</samp></summary>
-  
-![image](https://user-images.githubusercontent.com/40969170/222502793-37c87cd5-0134-4c84-89a3-8d80bfe10054.png)
+
+  ![image](https://user-images.githubusercontent.com/40969170/222504319-f4b3fe7e-2598-43dd-9480-29e86d8a7e14.png)
 
 </details>
