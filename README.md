@@ -6,8 +6,11 @@ NOTE: I staged this project into three different section, <a href="https://githu
 In this stage, I only created the foundation and layout. Not exaclty a ship-able product. I mean, the original purpose of this project was to learn PWA.
 
 <h3>Key Points</h3>
-In this project I've learned and implemented some key factors like:
-<br><br>
+<details>
+  <summary><samp>click to expand</samp></summary>
+  <br>
+  In this project I've learned and implemented some key factors like:
+  <br><br>
 <ul>
   <li>
     Pengenalan Kelas : Menjelaskan tentang pentingnya membuat website yang
@@ -50,7 +53,7 @@ In this project I've learned and implemented some key factors like:
     secara otomatis sehingga aplikasi dapat diakses secara publik.
   </li>
 </ul>
-
+</details>
 
 <h3>How to run</h3>
 <ul>
@@ -72,6 +75,6 @@ In this project I've learned and implemented some key factors like:
 <details>
   <summary><samp>click to expand</samp></summary>
 
-  ![image](https://user-images.githubusercontent.com/40969170/222504319-f4b3fe7e-2598-43dd-9480-29e86d8a7e14.png)
+  ![image](https://user-images.githubusercontent.com/40969170/222742364-7783442b-2ea9-42a2-95eb-fceae5d3710e.png)
 
 </details>
